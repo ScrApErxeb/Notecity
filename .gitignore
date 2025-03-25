@@ -1,0 +1,19 @@
+# Backend (Django)
+note_backend/__pycache__/
+note_backend/.env
+note_backend/*.sqlite3
+note_backend/staticfiles/
+
+# Frontend (Next.js)
+note_frontend/.next/
+note_frontend/node_modules/
+note_frontend/.env.local
+
+# Mobile (Expo)
+note_mobile/node_modules/
+note_mobile/.expo/
+note_mobile/.env
+
+# Général
+.DS_Store
+*.log
