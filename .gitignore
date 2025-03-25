@@ -1,6 +1,6 @@
 # Backend (Django)
 note_backend/__pycache__/
-note_backend/.env
+note_backend/.venv
 note_backend/*.sqlite3
 note_backend/staticfiles/
 
